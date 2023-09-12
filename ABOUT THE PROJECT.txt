@@ -1,0 +1,46 @@
+ABOUT THE PROJECT
+
+*********************************************************
+
+Sure! Here's a simpler explanation of the program:
+
+Title: Employee Salary Management Program
+
+Introduction:
+The Employee Salary Management Program is a computer program designed to help manage employee salary information. It provides features such as login security, employee salary reports, password change, and program exit.
+
+1. Login:
+- When you open the program, it will ask you to enter your username and password.
+- If the entered username or password is incorrect, it will ask you to try again.
+- You have up to 5 attempts to enter the correct username and password.
+- If you exceed the maximum number of attempts, the program will display a message saying "The system is locked."
+
+2. Options:
+After successfully logging in, the program will present you with three options:
+
+- Option 1: Employee Salary Report
+    - This option allows you to view and manage the salary information of the employees.
+    - Within this option, you have three sub-options:
+        - Sub-option 1: Display Salary Report
+            - This sub-option displays a table showing the salary report of 30 employees.
+            - The table includes information such as the employee's name, ID, number of working days, number of leaves, and net salary.
+        - Sub-option 2: Edit Salary Report
+            - This sub-option lets you modify the salary report data of a specific employee.
+            - You can enter the ID of the employee you want to edit, and then update their working days and number of leaves.
+            - The program will automatically calculate the net salary based on the updated data.
+        - Sub-option 3: Go Back
+            - This sub-option takes you back to the main menu.
+
+- Option 2: Change Password
+    - This option allows you to change your password for accessing the program.
+    - You will be asked to enter a new password and confirm it.
+    - If the new password and the confirmed password match, the program will update your password.
+    - Otherwise, it will display a message saying that the passwords do not match.
+
+- Option 3: Exit
+    - This option allows you to quit the program.
+
+Conclusion:
+The Employee Salary Management Program provides a secure login system and features to manage employee salary information. It allows you to view the salary report of 30 employees, edit the data of specific employees, change your password, and exit the program.
+
+Please note that this program does not save any changes made to the salary data after the program is closed.
